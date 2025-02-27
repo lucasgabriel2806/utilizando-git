@@ -1,4 +1,13 @@
--> inicializa um repositório git (Utilizado apenas 1 vez)
+-> Configura o pc com nome e E-mail do responsável pelo código
+git config --global user,name "Lucas Gabriel de Paula Pinto"
+git config --global user.email lucas.gabriellgpp@gmail.com
+
+-> Navegando no cmd
+cd nome-da-pasta    // entra em uma pasta
+cd ..               // volta uma pasta
+cd /                // vai para o c:
+
+-> Inicializa um repositório git (Utilizado apenas 1 vez)
 git init
 
 -> Verificando o status do repositório
@@ -10,7 +19,7 @@ git add .
 -> Salva uma versão dos arquivos
 git commit -m "Porque estou salvando???"
 
--> Envia informação do computador pra nuvem (Github)
+-> Envia informação do computador pra nuvem (Github) *
 git push
 
 -> Baixa a atualização dos arquivos do Github para uma pasta já existente
