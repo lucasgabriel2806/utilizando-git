@@ -1,6 +1,6 @@
 -> Configura o pc com nome e E-mail do responsável pelo código
-git config --global user,name "Lucas Gabriel de Paula Pinto"
-git config --global user.email lucas.gabriellgpp@gmail.com
+git config --global user.name "Lucas Gabriel de Paula Pinto"
+git config --global user.email "lucas.gabriellgpp@gmail.com"
 
 -> Navegando no cmd
 cd nome-da-pasta    // entra em uma pasta
